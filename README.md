@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on a Podcast Stats Site
+- 🌱 I’m currently learning Audius Tokens
 <!--
 **navio/navio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
