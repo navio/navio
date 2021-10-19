@@ -1,4 +1,6 @@
-<img src="github-metrics.svg" style="width:100%" />
+<p align="center">
+  <img src="github-metrics.svg" alt="Metrics">
+</p>
 <!--
 ### Hi there 👋
 - 🔭 I’m currently working on a Podcast Stats Site
