@@ -1,4 +1,4 @@
-![My Metrics](github-metrics.svg "a title")
+<img src="github-metrics.svg" style="width:100%" />
 <!--
 ### Hi there 👋
 - 🔭 I’m currently working on a Podcast Stats Site
