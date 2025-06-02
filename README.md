@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="github-metrics.svg" alt="Metrics">
+
 </p>
 <!--
+  <img src="github-metrics.svg" alt="Metrics">
 ### Hi there 👋
 - 🔭 I’m currently working on a Podcast Stats Site
 - 🌱 I’m currently learning Audius Tokens
